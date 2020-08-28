@@ -1,3 +1,5 @@
+![Rust](https://github.com/SirRujak/ipv4peersrs/workflows/Rust/badge.svg)
+
 # ipv4peersrs
 
 A direct rust translation of ipv4-peers for use in the hyper protocol based on the original nodejs library found here:
